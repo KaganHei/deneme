@@ -45,7 +45,7 @@ void insertionSort(int arr[], int k) {
 		arr[j + 1] = key;
 	}
 }
-void insertionSortchar(char array[], int k)
+void insertionSortchar(char array[], int k) asdsad
 {
 	int i, j;
 	char key;
